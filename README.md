@@ -31,7 +31,7 @@ The backend is responsible for ingesting logs into MongoDB.
 1. Navigate to the project root:
 
    ```bash
-   cd november-2023-hiring-sankettank66
+   cd log-ingestor
    ```
 
 2. Install backend dependencies:
